@@ -1,3 +1,11 @@
+
+<!--
+	Name: Deodato Manuel Sozinho
+	File: assignment 3 part 3.html
+	Date: XX September 202X
+	A very brief description of the file.
+-->
+
 ---
 title: Typesetting a community school homepage
 slug: Learn/CSS/Styling_text/Typesetting_a_homepage
